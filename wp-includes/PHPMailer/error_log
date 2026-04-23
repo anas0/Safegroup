@@ -1,0 +1,4 @@
+[01-Feb-2026 06:13:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/safegroup/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/safegroup/public_html/wp-includes/PHPMailer/OAuth.php on line 36

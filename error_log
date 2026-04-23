@@ -1,0 +1,94 @@
+[19-Mar-2025 07:40:57 UTC] Cron reschedule event error for hook: wp_version_check, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"twicedaily","args":[],"interval":43200}
+[17-Apr-2025 06:46:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/safegroup/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-base.php on line 409
+[17-Apr-2025 06:46:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/safegroup/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-base.php on line 409
+[17-Apr-2025 06:46:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/safegroup/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-base.php on line 409
+[17-Apr-2025 06:46:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/safegroup/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-base.php on line 409
+[17-Apr-2025 06:46:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/safegroup/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-base.php on line 409
+[17-Apr-2025 06:46:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/safegroup/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-base.php on line 409
+[17-Apr-2025 06:46:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/safegroup/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-base.php on line 409
+[17-Apr-2025 06:46:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/safegroup/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-base.php on line 409
+[17-Apr-2025 06:46:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/safegroup/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-base.php on line 409
+[20-Apr-2025 05:40:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 05:40:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 05:40:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 05:41:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 05:41:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 05:42:36 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:00:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:01:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:02:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:02:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:02:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:02:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:03:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:03:22 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:07:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:07:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:08:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:08:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:09:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:10:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:10:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:10:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:10:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:12:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:15:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:15:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 07:16:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:46:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:46:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:47:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:49:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:51:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:52:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:52:24 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:55:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:55:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:55:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 08:59:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:02:22 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:03:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:03:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:03:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:03:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:04:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:05:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:06:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:20:22 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:20:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:20:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:21:17 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:21:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:21:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:23:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:24:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:24:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:24:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[20-Apr-2025 09:25:24 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[21-Apr-2025 07:23:22 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[21-Apr-2025 07:23:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[21-Apr-2025 07:24:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[21-Apr-2025 07:24:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[21-Apr-2025 07:25:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[21-Apr-2025 07:25:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[21-Apr-2025 07:26:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[21-Apr-2025 07:27:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[21-Apr-2025 07:28:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[21-Apr-2025 07:29:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:19:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:19:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:20:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:21:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:23:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:23:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:26:22 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:26:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:27:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:27:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:27:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:27:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:27:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:29:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:30:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:30:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
+[10-May-2025 08:59:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/safegroup/public_html/wp-includes/post-template.php on line 324
